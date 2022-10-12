@@ -7577,9 +7577,9 @@
     "restore": {
       "projectUniqueName": "DemoFolder",
       "projectName": "DemoFolder",
-      "projectPath": "C:\\Users\\parul.madaan\\OneDrive - UiPath\\Flight Centre\\TryAgain\\DemoFolder\\.local",
+      "projectPath": "C:\\Users\\parul.madaan\\OneDrive - UiPath\\Flight Centre\\Branch2\\DemoFolder\\.local",
       "packagesPath": "C:\\Users\\parul.madaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parul.madaan\\OneDrive - UiPath\\Flight Centre\\TryAgain\\DemoFolder\\.local"
+      "outputPath": "C:\\Users\\parul.madaan\\OneDrive - UiPath\\Flight Centre\\Branch2\\DemoFolder\\.local"
     },
     "frameworks": {
       "net461": {
